@@ -1,0 +1,33 @@
+.validation-details-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color:#2b2e36;
+}
+  
+  .validation-details-title {
+    margin-bottom: 1rem;
+    font-size: 30px;
+    color: #e8e6e6;
+    font-style: italic;
+    font-family: sans-serif;
+  }
+  
+  .validation-details-container {
+    padding: 2rem;
+    background-color: #f2f1f1;
+    box-shadow: 7px 5px 15px 3px rgba(0, 0, 0, 0.9);
+  }
+  
+  .validation-details-field {
+    margin-bottom: 1rem;
+    font-size: 20px;
+  }
+  
+  .validation-details-label {
+    font-weight: bold;
+  }
+  
+  
